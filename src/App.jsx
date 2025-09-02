@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Search from './components/Search.jsx'
 
 const App = () => {
-  const [searchTerm, setSearchTerm] = useState('')
+  const [searchTerm, setSearchTerm] = useState('Hello world!')
 
   return (
     <main>
