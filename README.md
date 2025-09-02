@@ -54,14 +54,12 @@ npm run dev
 
 ### Screenshots
 
-![shocase](./showcase.gif)
+![showcase](./showcase.gif)
 
 ### Credits
 
 Tutorial & Guidance: JavaScript Mastery
  – React JS 19 Full Course 2025
-Database API
-- TMDB Movie API
 
 Movie Data API: The Movie Database (TMDB)
 
