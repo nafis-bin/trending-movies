@@ -1,5 +1,7 @@
 # 🎬 TRENDING MOVIES
 
+![showcase](./showcase.gif)
+
 A modern React application that displays a collection of movies fetched from the TMDB (The Movie Database) API. This project was built as part of learning React by following the excellent React JS 19 Full Course 2025 by JavaScript Mastery
 .
 
@@ -50,11 +52,9 @@ You can get your API key by creating a free account at TMDB
 
 Start the development server:
 
+```bash
 npm run dev
-
-### Screenshots
-
-![showcase](./showcase.gif)
+```
 
 ### Credits
 
