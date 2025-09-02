@@ -7,29 +7,29 @@ A modern React application that displays a collection of movies fetched from the
 
 ### Features
 
-Browse trending and popular movies
+- Browse trending and popular movies
 
-Search movies by title
+- Search movies by title
 
-View movie posters and details
+- View movie posters and details
 
-Responsive design for desktop and mobile
+- Responsive design for desktop and mobile
 
-Built with React 19 and styled for a clean, modern UI
+- Built with React 19 and styled for a clean, modern UI
 
 ### Tech Stack
 
-React 19 – Modern React features and best practices
+- React 19 – Modern React features and best practices
 
-TMDB API – Fetch real movie data
+- TMDB API – Fetch real movie data
 
-JavaScript (ES2025)
+- JavaScript (ES2025)
 
-CSS / Tailwind (if you used styling from the tutorial)
+- CSS / Tailwind (if you used styling from the tutorial)
 
 ### Setup & Installation
 
-Clone the repository:
+- Clone the repository:
 
 ```bash
 git clone https://github.com/nafis-bin/trending-movies.git
@@ -39,18 +39,20 @@ cd trending-movies
 
 ### Install dependencies:
 
+```bash
 npm install
+```
 
 
-Create a .env file in the root folder and add your TMDB API key:
+- Create a .env file in the root folder and add your TMDB API key:
 
+```bash
 VITE_TMDB_API_KEY=your_tmdb_api_key_here
+```
 
+- You can get your API key by creating a free account at TMDB
 
-You can get your API key by creating a free account at TMDB
-.
-
-Start the development server:
+- Start the development server:
 
 ```bash
 npm run dev
@@ -58,10 +60,10 @@ npm run dev
 
 ### Credits
 
-Tutorial & Guidance: JavaScript Mastery
+- Tutorial & Guidance: JavaScript Mastery
  – React JS 19 Full Course 2025
 
-Movie Data API: The Movie Database (TMDB)
+- Movie Data API: The Movie Database (TMDB)
 
 ### License
 
